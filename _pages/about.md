@@ -7,8 +7,8 @@ subtitle: Ph.D. student in Machine Learning
 profile:
   align: right
   image: me.jpg
-  caption: >
-    <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
+  image_circular: false # crops the image to make it circular
+  address:
 
 news: true  # includes a list of news items
 sections: true
